@@ -136,8 +136,8 @@ local hum = chr and chr:FindFirstChildWhichIsA("Humanoid")
 nowe = false 
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
-Title = "thank you get script fly";
-Text = "By me_ozone and Quandale The Dinglish XII#3550";
+Title = "Thanks For Using My Script";
+Text = "made by pklaysrblx";
 Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 Duration = 5; 
 
